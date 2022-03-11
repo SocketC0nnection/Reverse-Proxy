@@ -1,3 +1,2 @@
 # Reverse-Proxy
-A simple reverse-proxy with integrated load-balancer and firewall written in Java
-In development. Coming soon...
+A simple reverse-proxy written in Java
